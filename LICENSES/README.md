@@ -1,0 +1,1 @@
+Benchmark helper under work/ is copied from Siselea/rtx30-unlock-windows-toolkit under its GPL-2.0 license. Other repository-owned Python diagnostic/benchmark adaptations are provided under GPL-2.0-only. Reports and original measurement data are CC BY 4.0. No NVIDIA firmware or vendor binaries are distributed.

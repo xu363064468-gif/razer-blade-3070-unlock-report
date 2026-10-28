@@ -1,0 +1,55 @@
+{
+  "at": "2026-10-29T03:16:31.254838+09:00",
+  "read_only": true,
+  "gpu_count": 1,
+  "registers": [
+    {
+      "gpu": 0,
+      "label": "PMC_BOOT_0",
+      "offset": "0x0",
+      "rc": -1,
+      "status": 0,
+      "value": "0x0"
+    },
+    {
+      "gpu": 0,
+      "label": "FEAT_PLM",
+      "offset": "0x823804",
+      "rc": -1,
+      "status": 0,
+      "value": "0x0"
+    },
+    {
+      "gpu": 0,
+      "label": "READOUT_1",
+      "offset": "0x823818",
+      "rc": -1,
+      "status": 0,
+      "value": "0x0"
+    },
+    {
+      "gpu": 0,
+      "label": "SS0",
+      "offset": "0x82381c",
+      "rc": -1,
+      "status": 0,
+      "value": "0x0"
+    },
+    {
+      "gpu": 0,
+      "label": "SS1",
+      "offset": "0x823820",
+      "rc": -1,
+      "status": 0,
+      "value": "0x0"
+    },
+    {
+      "gpu": 0,
+      "label": "WPR2_HI",
+      "offset": "0x1fa828",
+      "rc": -1,
+      "status": 0,
+      "value": "0x0"
+    }
+  ]
+}

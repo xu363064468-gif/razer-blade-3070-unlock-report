@@ -1,0 +1,39 @@
+{
+  "phase": "before",
+  "captured_at": "2026-10-28T19:09:22.458557+09:00",
+  "size": 4096,
+  "iters": 300,
+  "warmup": 30,
+  "method": "FP16 inputs / FP32 accumulation cuBLAS GEMM; zero-filled inputs; diagnostic throughput only",
+  "benchmark_sha256": "c2f015bee75dc4ffea9449dac66ce11c9a35cf6986d4e3dde168ef45303c8942",
+  "libraries": {
+    "cublas64_12.dll": "52ce5ba0ec5327d39be6021f0f9362d2ed4d64d7206f9b5afc06398d827b8e82",
+    "cublasLt64_12.dll": "71705a7cf0923f4ab034d0d2620bbfc989ff669ac3d79f868b7a7c597ca559c5",
+    "cudart64_12.dll": "760c38928bbe5759f7b31ed6692599eb7ec83cedd5702e84c2b72028a89837e1",
+    "nvblas64_12.dll": "f54ac264becdb8ac866cbc0cce74f1dfe0e0c1f6e60a0629f222490d210302cd"
+  },
+  "samples": [
+    {
+      "run": 1,
+      "ms_per_iter": 4.205277913411458,
+      "tflops": 32.682490028466404,
+      "before": "name, driver_version, pstate, temperature.gpu, power.draw [W], clocks.current.sm [MHz], memory.used [MiB]\nNVIDIA GeForce RTX 3070 Laptop GPU, 617.42, P0, 46, 752.67 W, 1290 MHz, 0 MiB",
+      "after": "name, driver_version, pstate, temperature.gpu, power.draw [W], clocks.current.sm [MHz], memory.used [MiB]\nNVIDIA GeForce RTX 3070 Laptop GPU, 617.42, P0, 51, 77.12 W, 1755 MHz, 127 MiB"
+    },
+    {
+      "run": 2,
+      "ms_per_iter": 4.100266520182291,
+      "tflops": 33.51951703517304,
+      "before": "name, driver_version, pstate, temperature.gpu, power.draw [W], clocks.current.sm [MHz], memory.used [MiB]\nNVIDIA GeForce RTX 3070 Laptop GPU, 617.42, P0, 51, 77.12 W, 1755 MHz, 127 MiB",
+      "after": "name, driver_version, pstate, temperature.gpu, power.draw [W], clocks.current.sm [MHz], memory.used [MiB]\nNVIDIA GeForce RTX 3070 Laptop GPU, 617.42, P0, 52, 76.85 W, 1695 MHz, 127 MiB"
+    },
+    {
+      "run": 3,
+      "ms_per_iter": 4.21198486328125,
+      "tflops": 32.63044809827055,
+      "before": "name, driver_version, pstate, temperature.gpu, power.draw [W], clocks.current.sm [MHz], memory.used [MiB]\nNVIDIA GeForce RTX 3070 Laptop GPU, 617.42, P0, 52, 76.85 W, 1695 MHz, 127 MiB",
+      "after": "name, driver_version, pstate, temperature.gpu, power.draw [W], clocks.current.sm [MHz], memory.used [MiB]\nNVIDIA GeForce RTX 3070 Laptop GPU, 617.42, P0, 53, 72.62 W, 1725 MHz, 127 MiB"
+    }
+  ],
+  "median_tflops": 32.682490028466404
+}

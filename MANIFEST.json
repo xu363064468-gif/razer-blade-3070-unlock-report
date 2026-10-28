@@ -1,0 +1,146 @@
+{
+  ".gitignore": {
+    "bytes": 100,
+    "sha256": "9e073f13be54753bdb91453ae77b5e231fab7dac4e5764bc7b5a10f57e1c6cbb"
+  },
+  "README.md": {
+    "bytes": 7642,
+    "sha256": "2de50cdd77ba749690651dfe5f0c85f5510939306719adf1ec4010d994db1aa7"
+  },
+  "evidence/benchmarks/after-four-modes.json": {
+    "bytes": 7995,
+    "sha256": "5247568a6feb97109ec7cd0905bd965956b53e2e1bdffe5266ecfb2004a21e5b"
+  },
+  "evidence/benchmarks/after-repeat-four-modes.json": {
+    "bytes": 7999,
+    "sha256": "b48d2cd59f40eef9bd863c69d1650732f96be4fa0d5c04abd787666a7aa4e57b"
+  },
+  "evidence/benchmarks/after-restart-diagnostic.json": {
+    "bytes": 2356,
+    "sha256": "cc018b4bd87874f4512fa19f979ef9ddcee0f2504779e7152f0f2d59cde52a11"
+  },
+  "evidence/benchmarks/before-four-modes.json": {
+    "bytes": 7984,
+    "sha256": "aa6341e01411c8f2505fee9ce8f6cf53eb3f4dd94b6693ab29567f609529241a"
+  },
+  "evidence/benchmarks/before.json": {
+    "bytes": 2339,
+    "sha256": "210361604f51f145b51c2b4bc1e00eace3d0d6f38d8cc9011f3aed3321b14bef"
+  },
+  "evidence/benchmarks/diagnostic-8192-v4-four-modes.json": {
+    "bytes": 8013,
+    "sha256": "562176e2dd58ce64a2bd369da3a240b1f6d8c0489f73469d1b2a049824157828"
+  },
+  "evidence/benchmarks/hold-current-four-modes.json": {
+    "bytes": 7996,
+    "sha256": "753cfa8f7abadc44acf2ab804eeaa48005184172324b57b14222a3eca5bd8bea"
+  },
+  "evidence/benchmarks/hold-nextboot-20261028-194427-four-modes.json": {
+    "bytes": 8032,
+    "sha256": "bbff9ced2ba815a795c55494ec19b71ef2607f0db1775cecb357efb2aa28b528"
+  },
+  "evidence/benchmarks/hold-nextboot-20261028-195212-four-modes.json": {
+    "bytes": 8028,
+    "sha256": "7b0d53dc7601563b88c338f47b4ec78fef6d67f60291844bab7378a9d1996ad8"
+  },
+  "evidence/benchmarks/nvapi-handoff-20261029-031631.json": {
+    "bytes": 987,
+    "sha256": "13504368e3f8a92a68370f51487b9e2e96adfe497b72abed5860b154cfe456f3"
+  },
+  "evidence/benchmarks/nvapi-handoff-20261029-031702.json": {
+    "bytes": 1007,
+    "sha256": "c7c38d5c0227c5ff3ea983f2525660d42cce794dc9cd2765557a129f32861df7"
+  },
+  "evidence/benchmarks/nvapi-handoff-20261029-033619.json": {
+    "bytes": 1002,
+    "sha256": "dc22cc45fdd144ff15d4cc4b2ca087b75d6411904537c82b3dc908f1e96fdd5c"
+  },
+  "evidence/benchmarks/nvuefi-dedicated-20261029-four-modes.json": {
+    "bytes": 8024,
+    "sha256": "c7439bedb78db5d3a4f82051b9c4b1ab0db709257852cfc1f4752981378d1570"
+  },
+  "evidence/benchmarks/nvuefi-v210-after-20261029-four-modes.json": {
+    "bytes": 8016,
+    "sha256": "e0ac847a4bb183838d7b0798719827781c6e5640441afca67cce39a5c7ccedcc"
+  },
+  "evidence/comparisons/comparison-context-hold.md": {
+    "bytes": 607,
+    "sha256": "20c0fb7b9d3739c03c263175d8709b2ec85682df11713ba852c5fbe263a4c77e"
+  },
+  "evidence/comparisons/comparison-dedicated-success.md": {
+    "bytes": 849,
+    "sha256": "cb5c0d93a4616bc888d5d664a246fb14a27527603f760c61b748684609daf1c2"
+  },
+  "evidence/comparisons/comparison-nvuefi-v210.md": {
+    "bytes": 501,
+    "sha256": "e07ab231511c11ed691d8afe5702175711f9c8fcc6a907ceb138538232c809ac"
+  },
+  "evidence/comparisons/comparison-repeat.md": {
+    "bytes": 258,
+    "sha256": "e3cbb9e3e6050bff1d87c6cf7f7a6963325b2f7f27b5a0c287fe6f519d058b83"
+  },
+  "evidence/comparisons/comparison-ss1full-v4.md": {
+    "bytes": 606,
+    "sha256": "1db2490ccc87eba26422c5d22020b1ad3d73bc45351df63af8c93d63a5b3b499"
+  },
+  "evidence/comparisons/comparison.md": {
+    "bytes": 520,
+    "sha256": "c7e945c5208f5624b71f3210dea9562cdf1d48cd96da78a1d72687849185fda5"
+  },
+  "evidence/uefi/nvuefi-20261029-031339.log": {
+    "bytes": 28178,
+    "sha256": "b78fc4a01b91f3fa9e196d95d6de4bbd6a826b5366fc250ccdfdb93b1b005d28"
+  },
+  "evidence/uefi/nvuefi-dedicated-20261029-033612.log": {
+    "bytes": 28772,
+    "sha256": "b880baa4b4bddac2126dd13b7cd333088743c4a71e69b9e4a5a9b94fd7cf4f6a"
+  },
+  "evidence/uefi-legacy/hold-trial-20261028-194522.txt": {
+    "bytes": 15059,
+    "sha256": "25686834c7116498fce96de5d3757e4ad7ec4e5d2682353b04494cd6fba6f4b1"
+  },
+  "evidence/uefi-legacy/restore-diagnostic-20261028-192906.txt": {
+    "bytes": 15077,
+    "sha256": "e20134f062bde82590445f1eb3cef61e4622187355befda8f8fd409d25e6ef38"
+  },
+  "evidence/uefi-legacy/ss1full-v4-RUN04.txt": {
+    "bytes": 15209,
+    "sha256": "c206bce754070f46b991d07eece09133a66347f40691889ac5fb27dcb2722a38"
+  },
+  "evidence/uefi-legacy/unlock-first-RUN00.txt": {
+    "bytes": 14914,
+    "sha256": "eb6e80cc9e8e9980f9640b875a98f3515806ac6382d2817047ee77e05d262d16"
+  },
+  "evidence/uefi-legacy/unlock-v3-20261028-193345.txt": {
+    "bytes": 15060,
+    "sha256": "06b9a6e91f05aa3ba6c982a1b595f6185a81b8e0ed2b2555b1a0b19f1a776171"
+  },
+  "LICENSES/README.md": {
+    "bytes": 313,
+    "sha256": "47f7d2dd108d4d1adf49134a58118436e3c47e798e5a65f0a3bc1239a01d3354"
+  },
+  "LICENSES/toolkit-GPL-2.0.txt": {
+    "bytes": 18431,
+    "sha256": "189b1af95d661151e054cea10c91b3d754e4de4d3fecfb074c1fb29476f7167b"
+  },
+  "tools/cuda_context_hold.py": {
+    "bytes": 1894,
+    "sha256": "0ac3f383ac16891b4689cd58be2973df2ac1169720cc645c406311021b729c6c"
+  },
+  "tools/measure_gpu_four_modes.py": {
+    "bytes": 4297,
+    "sha256": "011384b5db14925aa9bd8d01aa650b403c8a90a87206cd947fb60ab46665556d"
+  },
+  "tools/measure_gpu_four_modes_8192.py": {
+    "bytes": 4297,
+    "sha256": "791965caf4a331d40f44507883767b94f067eb999361cf2dbbaf54c060dd2ae6"
+  },
+  "tools/read_nvapi_handoff.py": {
+    "bytes": 1846,
+    "sha256": "9b4c8e10d7c817e4e89a60ff03e159253e76f0e5e341011dbd2e6786fc824df7"
+  },
+  "work/rtx30-unlock-windows-toolkit/tools/bench/fp16_gemm_bench.py": {
+    "bytes": 10507,
+    "sha256": "bbff45f722494982973005c94f4df112a39f73931b3fd16fc451aef64a856b5c"
+  }
+}

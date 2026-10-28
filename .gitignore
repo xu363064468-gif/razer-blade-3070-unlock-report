@@ -1,0 +1,10 @@
+*.bin
+*.efi
+*.sys
+*.dll
+*.exe
+*.whl
+PROM*
+ROMIMAGE*
+__pycache__/
+work/bench-runtime-flat/
